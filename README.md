@@ -2,7 +2,10 @@
 **Cybersecurity Analyst | Threat Detection | SIEM | Cloud Security | Automation**  
 
 Newport Beach, California  
-(949) 975-9796 | cornelius.hojatkashani@gmail.com | [LinkedIn Profile] | [GitHub Profile]  
+(949) 975-9796 | cornelius.hojatkashani@gmail.com 
+
+<a href="https://www.linkedin.com/in/corneliusshk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://github.com/chojatkashani"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
